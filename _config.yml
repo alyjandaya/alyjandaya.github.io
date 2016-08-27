@@ -53,7 +53,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /"CS371p Fall 2016: Alyjan Daya":title/
+permalink: /:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
