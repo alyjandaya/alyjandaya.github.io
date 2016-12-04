@@ -19,10 +19,10 @@ OOP this semester has truly been a great adventure. While I didn’t too hot in 
 
 I also enjoyed the assignments – they tested what you were learning in class and were meaningful in that they weren’t random, but there was some practicality built into them. While all the tools we had to use were initially annoying, I appreciate being forced to use them as it gets us used to the software engineering environment. It also helped in my interviews.
 
-Regarding the reading material, I didn’t really read the book chapters thoroughly. Reading a textbook is just dull and boring. I did, howeve, read all the articles – I always learned a lot reading form those and none of them were long or boring. The writing styles of the articles were usually pretty great and interesting.
+Regarding the reading material, I didn’t really read the book chapters thoroughly. Reading a textbook is just dull and boring. I did, however, read all the articles – I always learned a lot reading frm those and none of them were long or boring. The writing styles of the articles were usually pretty great and interesting.
 
-The exams were ok for the most part – the first being easier than the second. However, I didn’t do well on the first, and I’m guessing I didn’t do too well on the second. I don’t much like the canvas exams. I prefer the written exams. I think maybe two hours are needed for the exams, as I noticed most people were crunched for time on that 2nd one. 
+The exams were ok for the most part – the first being easier than the second. However, I didn’t do well on the first, and I’m guessing I didn’t do too well on the second. I don’t much like the canvas exams. I prefer written exams. I think maybe two hours are needed for the exams, as I noticed most people were crunched for time on that 2nd one. 
 
-I also really appreciated the guest lectures from people who worked industry. I found those to be extremely helpful.
+I also really appreciated the guest lectures from people who worked in industry. I found those to be extremely helpful, as they gave a ton of insight into what software engineers do and how the interview process is seen from the company's perspective. I also liked how each of the speakers could speak directly to the importance of the class!
 
 Overall, thanks for a great semester Dr. Downing. It was an awesome class, and am looking forward to taking SWE in the future.
